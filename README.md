@@ -3,11 +3,11 @@
 
 > https://mmdpy.github.io
 
-![GitHub stars](https://img.shields.io/github/stars/mmdpy/mmdpy.github.io) 
-![GitHub forks](https://img.shields.io/github/forks/mmdpy/mmdpy.github.io)
-[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/mmdpy/mmdpy.github.io/commits/master)
-[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://mmdpy.github.io/)
-[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/mohammada/)
+![GitHub stars](https://img.shields.io/github/stars/jouyaebrahimi/jouyaebrahimi.github.io) 
+![GitHub forks](https://img.shields.io/github/forks/jouyaebrahimi/jouyaebrahimi.github.io)
+[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/jouyaebrahimi/jouyaebrahimi.github.io/commits/master)
+[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://jouyaebrahimi.github.io/)
+[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/jouya-ebrahimi-mehraban/)
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 ### Website Preview
