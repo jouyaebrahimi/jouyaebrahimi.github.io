@@ -1,7 +1,7 @@
 # Personal Portfolio ⚡️ 
 > A clean, beautiful, responsive portfolio template for Software Developers!
 
-> https://mmdpy.github.io
+> https://jouyaebrahimi.github.io
 
 ![GitHub stars](https://img.shields.io/github/stars/jouyaebrahimi/jouyaebrahimi.github.io) 
 ![GitHub forks](https://img.shields.io/github/forks/jouyaebrahimi/jouyaebrahimi.github.io)
